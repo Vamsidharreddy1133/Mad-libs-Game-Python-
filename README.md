@@ -1,0 +1,1 @@
+A Python Mad Libs game is a fun and interactive word game that allows users to create silly and often humorous stories. The game involves a template story with blank spaces where users can input words of various parts of speech. Once all the blanks are filled, the game generates a customized story based on the user's inputs.
